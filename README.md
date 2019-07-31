@@ -4,19 +4,19 @@ classification algorithms.
 
 
 ## Classification 
-- Classification of Hand Gestures
-**Aim** - Understanding various evaluation metrics
-**Algorithm used** - Logistic Regression and KNN
+- Classification of Hand Gestures <br>
+**Aim** - Understanding various evaluation metrics <br>
+**Algorithm used** - Logistic Regression and KNN <br>
 
-- Purchaser's intention classification
-**Aim**  - To deal with imbalanced datasets
-**Algorithm used** - Decision Trees
+- Purchaser's intention classification<br>
+**Aim**  - To deal with imbalanced datasets<br>
+**Algorithm used** - Decision Trees<br>
 
-- Identifying gender of reviewer
-**Aim**  - Learn Spark
-**Algorithm used** - Logistic Regression
+- Identifying gender of reviewer<br>
+**Aim**  - Learn Spark<br>
+**Algorithm used** - Logistic Regression<br>
 
-- Testing Occupancy in room
+- Testing Occupancy in room<br>
 **Aim**  - Compare Naive Bayes and Logistic Regression
 
 
